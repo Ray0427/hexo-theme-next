@@ -345,6 +345,10 @@
         {% include 'reward.swig' %}
       </div>
     {% endif %}
+    
+    {% if (theme.coinhive) and not is_index %}
+      <div id="coinhive" style="display: inline-block; text-align: center; width: 100%;"></div>
+    {% endif %}
 
     {% if theme.post_copyright.enable and not is_index %}
       <div>

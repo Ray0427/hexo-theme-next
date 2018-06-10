@@ -37,7 +37,7 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  since: 2017
 
   # Icon between year and copyright info.
   icon: user
@@ -238,6 +238,7 @@ post_wordcount:
 #wechatpay: /images/wechatpay.jpg
 #alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
+coinhive: MWcbLYiDjB7G16PQ8Fk1RmbNz12Iolk1
 
 # Declare license on posts
 post_copyright:
