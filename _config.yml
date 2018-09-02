@@ -353,8 +353,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: ray0427
   count: true
 
 # Hypercomments
